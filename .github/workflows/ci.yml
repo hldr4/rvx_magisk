@@ -2,7 +2,7 @@ name: CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 16 * * *"
+    - cron: "0 0 * * 0"
 
 jobs:
   check:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 0
 
