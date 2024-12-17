@@ -16,7 +16,7 @@ riplib = true
 build-mode = "module"
 module-prop-name = "YT-RVX"
 included-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Force player buttons background' 'Hide animated button background' 'Hide double tap to like animations' 'Hide voice search button'"
-excluded-patches = "'Append time stamps information' 'Custom header for YouTube' 'Spoof sreaming data' 'Custom double tap length' 'Custom package name' 'Enable wide search bar' 'Keep landscape mode' 'Layout switch' 'Translations' 'Change player flyout panel toggles'"
+excluded-patches = "'Append time stamps information' 'Custom header for YouTube' 'Spoof sreaming data' 'Custom double tap length' 'Custom package name' 'Enable wide search bar' 'Keep landscape mode' 'Layout switch' 'Translations for YouTube' 'Change player flyout panel toggles'"
 # version = "19.16.39"
 
 [Music]
