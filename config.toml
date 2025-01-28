@@ -6,7 +6,7 @@ enable-magisk-update = true
 
 cli-source = "inotia00/revanced-cli"
 patches-source = "anddea/revanced-patches"
-patches-version = "v3.3.0-dev.1"
+patches-version = "v3.3.0"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
